@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Moj prvi blog",
+      "body": "Beer",
+      "author": "Bata Socko",
+      "id": 1
+    },
+    {
+      "title": "Moj drugi blog",
+      "body": "5 Beer",
+      "author": "Cicko",
+      "id": 2
+    }
+  ]
+}
